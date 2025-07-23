@@ -1,16 +1,27 @@
-<!-- Typing SVG Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Toukir+Ahmed;CSE+Graduate+from+AIUB;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Love+Coding+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+<div align="center">
 
-## 👨‍💻 About Me
+<!-- Header with animated background -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD%20TOUKIR%20AHMED&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+
+<!-- Animated typing with multiple lines -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;From+Bangladesh" alt="Typing SVG" />
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+
+</div>
+
+<!-- About Section with Cards -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
+<img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" />
 
 ```yaml
-name: Toukir Ahmed
-located_in: Dinajpur, Bangladesh
-current_work: Junior Game Developer at Programming Dev
+name: MD. TOUKIR AHMED
+located_in: Dhaka, Bangladesh
+current_work: Full-Stack Developer
 education: 
-  - "B.Sc in Computer Science & Engineering from AIUB"
+  - "Computer Science & Engineering at AIUB"
 
 fields_of_interests:
   - "Web Development"
@@ -29,6 +40,44 @@ currently_learning:
   - "Contribute to Open Source"
   - "Work at a Global Tech Company"
   - "Grow on GitHub and LinkedIn"
----
+```
+<br clear="right"/>
 
+<!-- GitHub Stats with modern cards -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
 
+<div align="center">
+
+<!-- Main stats row -->
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=TUHIN27289&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUHIN27289&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8" />
+
+<!-- Streak stats -->
+<img src="https://streak-stats.demolab.com/?user=TUHIN27289&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&border_radius=10" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TUHIN27289&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
+
+</div>
+
+<!-- Trophies Section -->
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=TUHIN27289&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
+
+<!-- Detailed Analytics -->
+## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="32"> Detailed Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TUHIN27289&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TUHIN27289&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TUHIN27289&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TUHIN27289&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdrijoanmaruf&theme=github_dark&utcOffset=6" />
+
+</div>
